@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/project stuff/proj/beta_project/beta_project/Content/Characters/Mannequins/Animations/Unarmed/BS_MM_Unarmed.uasset",
+				"F:/project stuff/proj/beta_project/beta_project/Content/Characters/Mannequins/Animations/ABP_Manny1.uasset",
+				"F:/project stuff/proj/beta_project/beta_project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"F:/project stuff/proj/beta_project/beta_project/Content/Characters/Mannequins/Animations/Unarmed/MM_Unarmed_Walk_Left.uasset",
+				"F:/project stuff/proj/beta_project/beta_project/Content/Characters/Mannequins/Animations/Unarmed/MM_Unarmed_Walk_Right.uasset",
 				"D:/Project/beta_project/beta_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/NK/VD7H18ZGSKSJSX8G1QPI9Z.uasset",
 				"D:/Project/beta_project/beta_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/SU/XSQ8OKFEEO3WI6ZGWLBCJL.uasset",
 				"D:/Project/beta_project/beta_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/IO/28J7G0330M8VY0ZVXT8IX6.uasset",
